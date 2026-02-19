@@ -117,5 +117,4 @@ while True:
         case (4):
             break
         case _:
-
             print ("Invalid Choose an Option from the menu or enter 4 to Exit Menu\n:")
